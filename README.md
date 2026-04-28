@@ -6,11 +6,6 @@
 
 ##  Introduction
 
-**I-JEPA** is a self-supervised learning framework introduced in the paper:
-
-> **"Self-supervised learning from images with a joint-embedding predictive architecture"**  
-> Yann LeCun, Mathilde Caron, Piotr Bojanowski, Armand Joulin, Ishan Misra, et al.  
-> [ arXiv:2301.08243](https://arxiv.org/abs/2301.08243)
 
 Unlike pixel-level reconstruction methods (e.g., MAE), **I-JEPA** encourages models to reason at a **semantic level** by predicting **high-level representations** of masked image regions. This results in more robust and scalable visual representations for downstream tasks.
 
